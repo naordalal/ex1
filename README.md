@@ -19,3 +19,12 @@
 - שטחים סלעיים
 
 ![תמונה להמחשה](/images/נמר.jpg)
+
+
+עברית | אנגלית
+-------|--------
+Panthera pardus pardus | נמר אפריקאי
+Panthera pardus orientalis | נמר אמור או נמר סיבירי
+Panthera pardus tulliana | נמר אנטולי או נמר גלילי
+Panthera pardus nimr | נמר המדבר או נמר ערבי
+Panthera pardus panthera | נמר ברבארי
