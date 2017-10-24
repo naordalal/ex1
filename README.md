@@ -21,7 +21,7 @@
 ![תמונה להמחשה](/images/נמר.jpg)
 
 
-עברית | אנגלית
+אנגלית | עברית
 -------|--------
 Panthera pardus pardus | נמר אפריקאי
 Panthera pardus orientalis | נמר אמור או נמר סיבירי
